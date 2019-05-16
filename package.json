@@ -1,0 +1,19 @@
+{
+  "name": "skill9",
+  "version": "1.0.0",
+  "description": "alexa tableau integration",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.441.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "xml2json-light": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rudra",
+  "license": "ISC"
+}
